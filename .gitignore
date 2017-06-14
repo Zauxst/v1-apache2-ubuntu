@@ -1,0 +1,2 @@
+# Docker Images Compiled from Modified DockerContainers, are ignored to avoid issues
+*.dimg
